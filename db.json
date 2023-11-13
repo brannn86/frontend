@@ -1,0 +1,44 @@
+{
+  "products": [
+      {
+          "id": 1,
+          "name": "americano",
+          "price": "12.000",
+          "image": "https://cdn.pixabay.com/photo/2015/07/13/14/58/coffee-843278_1280.jpg"
+
+      },
+      {
+          "id": 2,
+          "name": "latte",
+          "price": "15.000",
+          "image": "https://cdn.pixabay.com/photo/2017/04/19/13/04/coffee-2242215_1280.jpg"
+
+      },
+      {
+          "id": 3,
+          "name": "espresso",
+          "price": "10.000",
+          "image": "https://cdn.pixabay.com/photo/2020/12/08/22/34/espresso-5815750_1280.jpg"
+
+      },
+      {
+          "id": 4,
+          "name": "cappuccino",
+          "price": "12.000",
+          "image": "https://cdn.pixabay.com/photo/2013/07/18/14/57/coffee-164058_1280.jpg"
+
+      },
+      {
+          "id": 5,
+          "name": "vietnam drip",
+          "price": "13.000",
+          "image": "https://i0.wp.com/singleorigincoffee.id/wp-content/uploads/2021/12/Vietnam-Drip-SOC.jpg?fit=483%2C475&ssl=1"
+      },
+      {
+        "id": 6,
+        "name": "ice cream sandwich",
+        "price": "25.000",
+        "image": "https://cdn.pixabay.com/photo/2023/10/18/07/44/sandwich-8323157_1280.jpg"
+    }
+  ]
+}
